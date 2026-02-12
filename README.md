@@ -1,2 +1,2 @@
-# LM749xx-Pspice-Simulation
+# Pspice-Simulation
 Testing LM749xx IC which act's like a ideal diode
